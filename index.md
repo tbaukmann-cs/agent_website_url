@@ -1,9 +1,9 @@
-# Test Agent – Conditional Access Viewer
+# Test Agent
 
 ## Overview
 
 This application is a test agent built for internal evaluation purposes.
-It allows authorized users to view Conditional Access Policies from a Microsoft Entra ID tenant.
+It allows authorized users to view information from a Microsoft Entra ID tenant.
 
 ## Intended Use
 
